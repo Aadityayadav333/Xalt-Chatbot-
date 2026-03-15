@@ -30,7 +30,7 @@ faiss_db = FAISS.load_local(
 
 # Load Cohere chat model
 llm_model = ChatCohere(
-    model="command-r-plus",
+    model="command-r7b-12-2024",
     temperature=0.3
 )
 
