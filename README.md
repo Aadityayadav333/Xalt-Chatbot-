@@ -4,6 +4,13 @@ Welcome to the official **XALT Analytics Chatbot** — an intelligent web-based 
 
 ---
 
+## Demo
+
+
+https://github.com/user-attachments/assets/b6034c3a-5938-431f-b91b-98d2ddd1d897
+
+
+
 ## 🔧 Tech Stack Overview
 
 1. **Text-to-Vector Conversion**  
